@@ -18,11 +18,7 @@ A simple command-line To-Do List application written in Python. This project all
 ┣ 📄 To-Do List.py # Main Python script
 ┗ 📄 README.md # This file
 
-🖥️ Usage
-Clone the repository:
 
-git clone https://github.com/yourusername/to-do-list-app.git
-cd to-do-list-app
 
 Run the Python script:
 
